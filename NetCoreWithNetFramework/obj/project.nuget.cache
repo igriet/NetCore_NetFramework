@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NiYRoXPQAM8LSRvjnj+o/PqXxP0mMdCH0L/mBR2w7akzVlw719DgJbCKXMEpkOqAk/NRpJUW0Um43xQTxuU1zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eliseog\\Documents\\16R137\\NetCoreWithNetFramework\\NetCoreWithNetFramework\\NetCoreWithNetFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliseog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

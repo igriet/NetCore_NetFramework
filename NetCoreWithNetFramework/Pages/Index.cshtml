@@ -1,0 +1,13 @@
+﻿@page
+@using NetFrameworkClassLibrary
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Class1 prueba = new Class1();
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1>@prueba.Test()</h1>
+</div>

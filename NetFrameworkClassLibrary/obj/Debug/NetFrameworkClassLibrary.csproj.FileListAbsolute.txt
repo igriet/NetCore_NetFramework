@@ -1,0 +1,6 @@
+C:\Users\eliseog\Documents\16R137\NetCoreWithNetFramework\NetFrameworkClassLibrary\bin\Debug\NetFrameworkClassLibrary.dll
+C:\Users\eliseog\Documents\16R137\NetCoreWithNetFramework\NetFrameworkClassLibrary\bin\Debug\NetFrameworkClassLibrary.pdb
+C:\Users\eliseog\Documents\16R137\NetCoreWithNetFramework\NetFrameworkClassLibrary\obj\Debug\NetFrameworkClassLibrary.csprojAssemblyReference.cache
+C:\Users\eliseog\Documents\16R137\NetCoreWithNetFramework\NetFrameworkClassLibrary\obj\Debug\NetFrameworkClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eliseog\Documents\16R137\NetCoreWithNetFramework\NetFrameworkClassLibrary\obj\Debug\NetFrameworkClassLibrary.dll
+C:\Users\eliseog\Documents\16R137\NetCoreWithNetFramework\NetFrameworkClassLibrary\obj\Debug\NetFrameworkClassLibrary.pdb
